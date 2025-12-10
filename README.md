@@ -8,4 +8,4 @@ I'd like to construct AI models that can protect databases and servers, construc
 planet terrain, or construct an AI that can detect anomalies that humans will miss in medical image scans and X-rays. I have many interests.
 
 Labs: L03 Lab, L10 Course Lab, Midterm Project - Data Storytelling
-Assignments: Google Collab EDA, A 01 Getting Started with Github & Your First Repository
+Assignments: Google Collab EDA
